@@ -4,8 +4,9 @@
 <a href="https://github.com/JulesBelveze?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JulesBelveze?tab=repositories" alt="julesbelveze"/></a>
 </p>
 
-I'm a graduated engineer from both Centrale Lyon (France) and DTU (Denmark) with a deep focus on Data Science & AI. 
-I've been working for a while on NLP and how to leverage it for business usage. I also have a strong interest in Engineering problems and especially how to scale massive models like <i>BERT</i> in production. 
+I'm a NLP Engineer working for @hypefactors. I graduated from both Centrale Lyon (France) and DTU (Denmark) with a deep focus on Data Science & AI. 
+I've been working for a while on multilingual NLP for various cases like sentiment analysis, NER, topic modeling, ... and how to leverage it for a business usage. I  have a strong interest in MLOps and Engineering problems and especially how to scale massive models like <i>BERT</i> in production.
+
 As you will notice if looking at my repos, I spent quite some time working with Deep Learning and Time Series and did my Master Thesis on <i>Anomaly Detection In High Dimensional Time Series.</i>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JulesBelveze&show_icons=true" alt=julesbelveze />
