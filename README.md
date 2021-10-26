@@ -11,9 +11,9 @@ As you will notice if looking at my repos, I spent quite some time working with 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JulesBelveze&show_icons=true" alt=julesbelveze />
 
-- :snake: Deep Learning addict fascinated by NLP.
-- :bulb: MLOps enthusiast.
-- :writing_hand: Getting up to speed with Scala.
+- :snake: Deep Learning addict fascinated by NLP & Time Series.
+- :bulb: MLOps practitioner.
+- :writing_hand: Getting up to speed with Scala and DJL.
 - 📫 I check [Linkedin](https://www.linkedin.com/in/jules-belveze/) daily, so feel free to reach out.
 - ⌨️ Typing on a Redox keyboard.
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JulesBelveze" alt="julesbelveze" /> </p>
