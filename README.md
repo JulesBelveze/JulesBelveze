@@ -27,18 +27,8 @@
 
 ### What I do
 
-I'm employed as an <b>NLP / MLOps Engineer</b> at @Hypefactors where I work on various **multilingual natural language
-processing** tasks like sentiment analysis, NER, topic modeling, summarization, semantic search, ... and how to leverage
-them for our clients. \
+Currently, I work as an MLOps Engineer at @Aqemia, where my focus is on managing the complete life cycle of Machine Learning workflows. My prior experience includes working on multilingual natural language processing tasks such as sentiment analysis, NER, topic modeling, summarization, semantic search, and leveraging them to create business value. \
 \
-At Hypefactors we are investing a lot of effort in automating our whole machine learning lifecycle. We believe that
-automating model development & deployment using MLOps means faster feature releases. To help us achieve this we have
-adopted the following tools to help us in this direction: [PyTorch Lightning](https://www.pytorchlightning.ai)
-, [Hydra](https://hydra.cc/docs/intro/), [Neptune.ai](https://neptune.ai), [ONNXruntime](https://onnxruntime.ai)
-, [Metaflow](https://docs.metaflow.org), [Label Studio](https://labelstud.io) ...
+I believe that automating model development and deployment using MLOps enables faster feature releases. To achieve this goal, I have worked with various tools such as PyTorch Lightning, Hydra, Neptune.ai, ONNXruntime, Metaflow, Label Studio, among others.
 
-### About me
-
-As you will notice if looking at my repos, I spent quite some time working with Deep Learning and Time Series and did my
-Master Thesis on <i>Anomaly Detection In High Dimensional Time Series.</i>. Also, I'm particularly interested in new
-SOTA techniques to speed up the inference of Transformer based models.
+Apart from this, I have worked extensively with Deep Learning and Time Series and completed my Master's Thesis on <i>Anomaly Detection in High Dimensional Time Series</i>. Additionally, I am keenly interested in exploring state-of-the-art techniques to speed up the inference of Deep Learning models, especially Transformer-based models.
