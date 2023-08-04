@@ -27,7 +27,7 @@
 
 ### What I do
 
-Currently, I work as an MLOps Engineer at @Aqemia, where my focus is on managing the complete life cycle of Machine Learning workflows. My prior experience includes working on multilingual natural language processing tasks such as sentiment analysis, NER, topic modeling, summarization, semantic search, and leveraging them to create business value. \
+My experiences include working on several multilingual natural language processing tasks such as sentiment analysis, NER, topic modeling, summarization, semantic search, ...\
 \
 I believe that automating model development and deployment using MLOps enables faster feature releases. To achieve this goal, I have worked with various tools such as PyTorch Lightning, Hydra, Neptune.ai, ONNXruntime, Metaflow, Label Studio, among others.
 
