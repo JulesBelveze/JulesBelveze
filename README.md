@@ -27,7 +27,9 @@
 
 ### What I do
 
-My experiences include working on several multilingual natural language processing tasks such as sentiment analysis, NER, topic modeling, summarization, semantic search, ...\
+I currently work as a Senior MLOps/NLP Engineer at @JohnSnowLabs where I lead the development of the `langtest` library.
+
+My previous experiences include working on several multilingual natural language processing tasks such as sentiment analysis, NER, topic modeling, summarization, semantic search, ...\
 \
 I believe that automating model development and deployment using MLOps enables faster feature releases. To achieve this goal, I have worked with various tools such as PyTorch Lightning, Hydra, Neptune.ai, ONNXruntime, Metaflow, Label Studio, among others.
 
