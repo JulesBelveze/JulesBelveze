@@ -20,6 +20,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>📄 Blogs &amp; Papers
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://ieeexplore.ieee.org/document/9564190">Atlastic Reputation AI: Four Years of Advancing and Applying a SOTA NLP Classifier</a></span>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://neptune.ai/blog/mlops-examples-model-development-in-hypefactors">Real-World MLOps Examples: Model Development in Hypefactors</a></span>
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://medium.com/john-snow-labs/langtest-unveiling-fixing-biases-with-end-to-end-nlp-pipelines-c87849bd5bf5">LangTest: Unveiling & Fixing Biases with End-to-End NLP Pipelines</a>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://outerbounds.com/blog/mlops-media-intelligence/">Case Study: MLOps for NLP-powered Media Intelligence using Metaflow</a></span>
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://cloudblogs.microsoft.com/opensource/2022/04/19/scaling-up-pytorch-inference-serving-billions-of-daily-nlp-inferences-with-onnx-runtime/">Scaling-up PyTorch inference: Serving billions of daily NLP inferences with ONNX Runtime</a></span>
 
