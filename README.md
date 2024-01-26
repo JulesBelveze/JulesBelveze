@@ -28,7 +28,7 @@
 
 ### What I do
 
-I currently work as a Senior MLOps/NLP Engineer at @JohnSnowLabs where I lead the development of the `langtest` library.
+I currently work as a MLOps/ML Engineer at @Ava where I lead the AI efforts.
 
 My previous experiences include working on several multilingual natural language processing tasks such as sentiment analysis, NER, topic modeling, summarization, semantic search, ...\
 \
