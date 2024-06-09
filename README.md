@@ -31,10 +31,12 @@
 
 ### What I do
 
-I currently work as a MLOps/ML Engineer at @Ava where I lead the AI efforts.
+I currently work as a Software Engineer at @Dust.
 
-My previous experiences include working on several multilingual natural language processing tasks such as sentiment analysis, NER, topic modeling, summarization, semantic search, ...\
-\
-I believe that automating model development and deployment using MLOps enables faster feature releases. To achieve this goal, I have worked with various tools such as PyTorch Lightning, Hydra, Neptune.ai, ONNXruntime, Metaflow, Label Studio, among others.
+My previous experiences include leading AI developments and setting up entire AI infrastructures at Ava, as well as spearheading MLOps and NLP projects at John Snow Labs. I have engineered multilingual NLP solutions at Hypefactors and conducted deep learning research at Microsoft.
 
-Apart from this, I have worked extensively with Deep Learning and Time Series and completed my Master's Thesis on <i>Anomaly Detection in High Dimensional Time Series</i>. Additionally, I am keenly interested in exploring state-of-the-art techniques to speed up the inference of Deep Learning models, especially Transformer-based models.
+I believe that automating model development and deployment using MLOps enables faster feature releases. To achieve this goal, I have worked with various tools such as PyTorch Lightning, FastAPI, HuggingFace, Kubernetes, ONNXruntime, and more.
+
+Apart from this, I have worked extensively with Deep Learning and Time Series, completing my Master's Thesis on <i>Anomaly Detection in High Dimensional Time Series</i>. Additionally, I am keenly interested in exploring state-of-the-art techniques to speed up the inference of Deep Learning models, especially Transformer-based models.
+
+I am an avid open source contributor and advocate for ethical AI practices.
